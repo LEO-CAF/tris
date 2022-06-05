@@ -1,2 +1,2 @@
 # tris
-il gioco più bello del mondo
+il gioco più bello del mondo in python
